@@ -1,0 +1,23 @@
+{
+  "name": "bjjapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucianovilela/bjjapi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucianovilela/bjjapi/issues"
+  },
+  "homepage": "https://github.com/lucianovilela/bjjapi#readme",
+  "dependencies": {
+    "pg": "^8.7.3"
+  }
+}
